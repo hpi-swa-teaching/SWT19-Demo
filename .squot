@@ -1,3 +1,6 @@
 OrderedDictionary {
-	'Playground.package' : #SquotCypressCodeSerializer
+	'Playground.package' : #SquotCypressCodeSerializer,
+	'packages\/ToDo-Core.package' : #SquotCypressCodeSerializer,
+	'packages\/ToDo-Tests.package' : #SquotCypressCodeSerializer,
+	'packages\/BaselineOfToDo.package' : #SquotCypressCodeSerializer
 }
